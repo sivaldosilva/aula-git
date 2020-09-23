@@ -1,1 +1,2 @@
 Olá Mundo!Bem vindos à Digital House
+Esta é uma aula de git.Estamos vendo com versionar arquivos
